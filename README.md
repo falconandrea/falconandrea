@@ -3,7 +3,7 @@
 - I’m a Full-Stack Developer.
 - I mostly use PHP and MySQL for the backend, and HTML and CSS for the frontend.
 - I’m currently learning and use Laravel with Inertia.js (with Vue3).
-- I'm studying Javascript on https://www.theodinproject.com/
+- I'm studying Javascript on https://www.theodinproject.com/ and https://www.freecodecamp.org/
 - https://www.linkedin.com/in/andrea-falcon-fullstack-developer/
 
 <!---
