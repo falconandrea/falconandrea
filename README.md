@@ -19,6 +19,7 @@ I’m a Full-Stack Developer, but I prefer to work on the Backend.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![GIT](https://img.shields.io/badge/-GIT-000?&logo=git)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
