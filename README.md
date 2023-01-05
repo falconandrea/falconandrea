@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrea Falcon
 
-I’m a Full-Stack Developer, but I prefer work on Backend.
+I’m a Full-Stack Developer, but I prefer to work on the Backend.
 
 ### In 2023 I want to...
 - improve my English skills
