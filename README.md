@@ -8,6 +8,7 @@ I’m a Full-Stack Developer, but I prefer to work on the Backend.
 
 ### In 2022 I...
 - used Laravel with InertiaJS in some projects (with Vue3 and Tailwind CSS for the frontend)
+- made my first contribution to the Open Source World on phpMyAdmin Project, [here](https://github.com/phpmyadmin/phpmyadmin/pull/17665) the PR
 - learned Javascript and NodeJS on [Odin Project](https://www.theodinproject.com/) and [FreeCodeCamp](https://www.freecodecamp.org/)
 - started the [Alchemy University](https://university.alchemy.com/) and entered in the Web3 World
 
