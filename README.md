@@ -8,7 +8,7 @@ I’m a Full-Stack Developer, but I prefer to work on the Backend.
 
 ### In 2023 I...
 - have been expanding my knowledge about Solidity, and web3 tools.
-- completed the online Alchemy Bootcamp and received the certificate with my personal project "[Auth with NFT]([https://www.freecodecamp.org/](https://github.com/falconandrea/auth-with-nft))" 
+- completed the online Alchemy Bootcamp and received the certificate with my personal project [Auth with NFT](https://github.com/falconandrea/auth-with-nft) 
 
 ### In 2022 I...
 - used Laravel with InertiaJS in some projects (with Vue3 and Tailwind CSS for the frontend)
