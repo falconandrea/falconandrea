@@ -2,9 +2,13 @@
 
 I’m a Full-Stack Developer, but I prefer to work on the Backend.
 
-### In 2023 I want to...
+### In this year I want to...
 - improve my English skills
 - work in some Web3 Projects
+
+### In 2023 I...
+- have been expanding my knowledge about Solidity, and web3 tools.
+- completed the online Alchemy Bootcamp and received the certificate with my personal project "[Auth with NFT]([https://www.freecodecamp.org/](https://github.com/falconandrea/auth-with-nft))" 
 
 ### In 2022 I...
 - used Laravel with InertiaJS in some projects (with Vue3 and Tailwind CSS for the frontend)
@@ -18,6 +22,7 @@ I’m a Full-Stack Developer, but I prefer to work on the Backend.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=git)
@@ -25,6 +30,7 @@ I’m a Full-Stack Developer, but I prefer to work on the Backend.
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Hardhat](https://img.shields.io/badge/-Hardhat-000?&logo=Hardhat)
 
 ## 📫 Get in touch
 
