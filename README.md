@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Andrea Falcon
 
 I’m a Full-Stack Developer, but I prefer to work on the Backend.
+I am passionate about the potential of blockchain and decentralized systems to transform the way we interact with the internet, and I am eager to explore the web3 space further. 
 
 ### In this year I want to...
 - improve my English skills
