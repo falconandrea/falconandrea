@@ -1,7 +1,12 @@
 # 👋 Hi, I'm Andrea Falcon
 
-I’m a Full-Stack Developer, but I prefer to work on the Backend.
-I am passionate about the potential of blockchain and decentralized systems to transform the way we interact with the internet, and I am eager to explore the web3 space further. 
+I am a backend developer with experience in building web applications using PHP, Laravel, and MySQL. While my primary focus is on the backend, I also have knowledge of frontend technologies such as HTML, CSS, and JavaScript. 
+
+Recently, I have been expanding my knowledge by learning Node.js, Solidity, and web3 tools. 
+
+I am passionate about the potential of blockchain and decentralized systems to transform the way we interact with the internet, and I am eager to explore the web3 space further. As a technology enthusiast, I am constantly seeking to learn and grow, and I am excited about the challenges that this constantly evolving field presents. 
+
+I welcome the opportunity to connect with like-minded professionals and explore new ways to make an impact in the world of web3. 
 
 ### In this year I want to...
 - improve my English skills
