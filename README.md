@@ -1,26 +1,31 @@
 # 👋 Hi, I'm Andrea Falcon
 
-I am a backend developer with experience in building web applications using PHP, Laravel, and MySQL. While my primary focus is on the backend, I also have knowledge of frontend technologies such as HTML, CSS, and JavaScript. 
+I am a backend developer with experience in building web applications using PHP, Laravel, and MySQL. While my primary focus is on the backend, I also have knowledge of frontend technologies such as HTML, CSS, and JavaScript.
 
-Recently, I have been expanding my knowledge by learning Node.js, Solidity, and web3 tools. 
+Recently, I have been expanding my knowledge by learning Node.js, Solidity, and web3 tools.
 
-I am passionate about the potential of blockchain and decentralized systems to transform the way we interact with the internet, and I am eager to explore the web3 space further. As a technology enthusiast, I am constantly seeking to learn and grow, and I am excited about the challenges that this constantly evolving field presents. 
+I am passionate about the potential of blockchain and decentralized systems to transform the way we interact with the internet, and I am eager to explore the web3 space further. As a technology enthusiast, I am constantly seeking to learn and grow, and I am excited about the challenges that this constantly evolving field presents.
 
-I welcome the opportunity to connect with like-minded professionals and explore new ways to make an impact in the world of web3. 
+If you are involved in Web3 projects or share my passion for blockchain technology and decentralized systems, I would love to connect and explore potential collaborations. Let's work together to bring innovative solutions to the world of blockchain and decentralized applications. Feel free to reach out and connect with me! 😄
+
+### At the moment I'm...
+- Expanding my web3 knowledge with courses and tutorials on [LearnWeb3DAO](https://learnweb3.io/).
+- Using ChatGPT as my trusted assistant to help me with coding tasks, providing valuable insights and solutions to technical challenges.
+- Actively studying prompt engineering to improve my ability to communicate effectively with ChatGPT.
 
 ### In this year I want to...
-- improve my English skills
-- work in some Web3 Projects
+- Improve my English skills.
+- Work on exciting Web3 Projects.
 
 ### In 2023 I...
-- have been expanding my knowledge about Solidity, and web3 tools.
-- completed the online Alchemy Bootcamp and received the certificate with my personal project [Auth with NFT](https://github.com/falconandrea/auth-with-nft) 
+- Have been expanding my knowledge about Solidity and web3 tools.
+- Completed the online Alchemy Bootcamp and received the certificate with my personal project [Auth with NFT](https://github.com/falconandrea/auth-with-nft) 
 
 ### In 2022 I...
-- used Laravel with InertiaJS in some projects (with Vue3 and Tailwind CSS for the frontend)
-- made my first contribution to the Open Source World on phpMyAdmin Project, [here](https://github.com/phpmyadmin/phpmyadmin/pull/17665) the PR
-- learned Javascript and NodeJS on [Odin Project](https://www.theodinproject.com/) and [FreeCodeCamp](https://www.freecodecamp.org/)
-- started the [Alchemy University](https://university.alchemy.com/) and entered in the Web3 World
+- Used Laravel with InertiaJS in various projects (with Vue3 and Tailwind CSS for the frontend)
+- Made my first contribution to the Open Source World on the phpMyAdmin Project, [here](https://github.com/phpmyadmin/phpmyadmin/pull/17665) is the PR
+- Learned JavaScript and NodeJS through [Odin Project](https://www.theodinproject.com/) and [FreeCodeCamp](https://www.freecodecamp.org/)
+- Started the [Alchemy University](https://university.alchemy.com/) and ventured into the Web3 World.
 
 ## ⚡ Languages & Technologies
 
@@ -37,6 +42,7 @@ I welcome the opportunity to connect with like-minded professionals and explore 
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-000?&logo=Hardhat)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai)
 
 ## 📫 Get in touch
 
