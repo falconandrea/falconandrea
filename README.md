@@ -29,19 +29,21 @@ If you are involved in Web3 projects or share my passion for blockchain technolo
 
 ## ⚡ Languages & Technologies
 
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white)
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![GIT](https://img.shields.io/badge/-GIT-000?&logo=git)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+![GIT](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![Next.JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-000?&logo=Hardhat)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=Ethereum&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai)
 
 ## 📫 Get in touch
