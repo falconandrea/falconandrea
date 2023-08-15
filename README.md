@@ -16,6 +16,7 @@ If you are involved in Web3 projects or share my passion for blockchain technolo
 ### In this year I want to...
 - 🇬🇧 Improve my English skills.
 - 🏗️ Work on exciting Web3 Projects.
+- 🌐 Participate in some Hackathons.
 
 ### In 2023 I...
 - 📚 Have been expanding my knowledge about Solidity and web3 tools.
