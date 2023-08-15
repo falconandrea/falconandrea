@@ -14,12 +14,13 @@ If you are involved in Web3 projects or share my passion for blockchain technolo
 - Actively studying prompt engineering to improve my ability to communicate effectively with ChatGPT.
 
 ### In this year I want to...
-- Improve my English skills.
-- Work on exciting Web3 Projects.
+- 🇬🇧 Improve my English skills.
+- 🏗️ Work on exciting Web3 Projects.
 
 ### In 2023 I...
-- Have been expanding my knowledge about Solidity and web3 tools.
-- Completed the online Alchemy Bootcamp and received the certificate with my personal project [Auth with NFT](https://github.com/falconandrea/auth-with-nft) 
+- 📚 Have been expanding my knowledge about Solidity and web3 tools.
+- 🎓 Completed the online Alchemy Bootcamp and received the certificate with my personal project [Auth with NFT](https://github.com/falconandrea/auth-with-nft)
+- 🥇 Won my first bounty on [LearnWeb3DAO](https://learnweb3.io/) - [here the project](https://github.com/falconandrea/azuki-nft-list)
 
 ### In 2022 I...
 - Used Laravel with InertiaJS in various projects (with Vue3 and Tailwind CSS for the frontend)
