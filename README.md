@@ -22,6 +22,8 @@ If you are involved in Web3 projects or share my passion for blockchain technolo
 - 📚 Have been expanding my knowledge about Solidity and web3 tools.
 - 🎓 Completed the online Alchemy Bootcamp and received the certificate with my personal project [Auth with NFT](https://github.com/falconandrea/auth-with-nft)
 - 🥇 Won my first bounty on [LearnWeb3DAO](https://learnweb3.io/) - [here the project](https://github.com/falconandrea/azuki-nft-list)
+- 🌐 Participated to my first online hackathon with my [SolidFundr](https://github.com/falconandrea/SolidFundr) project - [here the project on Devfolio](https://devfolio.co/projects/solidfundr-81b3)
+- 🥇 Won my second bounty on [LearnWeb3DAO](https://learnweb3.io/) - [here the project](https://github.com/falconandrea/Web3-Roulette-Game))
 
 ### In 2022 I...
 - Used Laravel with InertiaJS in various projects (with Vue3 and Tailwind CSS for the frontend)
