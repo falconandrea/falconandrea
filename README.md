@@ -24,6 +24,8 @@ If you are involved in Web3 projects or share my passion for blockchain technolo
 - 🥇 Won my first bounty on [LearnWeb3DAO](https://learnweb3.io/) - [here the project](https://github.com/falconandrea/azuki-nft-list)
 - 🌐 Participated to my first online hackathon with my [SolidFundr](https://github.com/falconandrea/SolidFundr) project - [here the project on Devfolio](https://devfolio.co/projects/solidfundr-81b3)
 - 🥇 Won my second bounty on [LearnWeb3DAO](https://learnweb3.io/) - [here the project](https://github.com/falconandrea/Web3-Roulette-Game))
+- 🌐 Participated to my second online hackathon with my [FileSolvers](https://github.com/falconandrea/FileSolvers) project - [here the Open Data Hackathon by FileCoin](https://www.encode.club/open-data-hack)
+- 🤝 Attended my first web3 conference [ethMilan](https://www.ethmilan.xyz/)
 
 ### In 2022 I...
 - Used Laravel with InertiaJS in various projects (with Vue3 and Tailwind CSS for the frontend)
@@ -35,6 +37,7 @@ If you are involved in Web3 projects or share my passion for blockchain technolo
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?logo=typescript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white)
