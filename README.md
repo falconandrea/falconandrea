@@ -26,6 +26,7 @@ If you are involved in Web3 projects or share my passion for blockchain technolo
 - 🥇 Won my second bounty on [LearnWeb3DAO](https://learnweb3.io/) - [here the project](https://github.com/falconandrea/Web3-Roulette-Game))
 - 🌐 Participated to my second online hackathon with my [FileSolvers](https://github.com/falconandrea/FileSolvers) project - [here the Open Data Hackathon by FileCoin](https://www.encode.club/open-data-hack)
 - 🤝 Attended my first web3 conference [ethMilan](https://www.ethmilan.xyz/)
+- 🌐 Participated to [BackDropBuild](https://backdropbuild.com/) with my [GPTDocBot](https://github.com/falconandrea/GPTDocBot) - [here you can search my project](https://backdropbuild.com/v2/directory)
 
 ### In 2022 I...
 - Used Laravel with InertiaJS in various projects (with Vue3 and Tailwind CSS for the frontend)
