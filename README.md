@@ -2,21 +2,23 @@
 
 I am a backend developer with experience in building web applications using PHP, Laravel, and MySQL. While my primary focus is on the backend, I also have knowledge of frontend technologies such as HTML, CSS, and JavaScript.
 
-Recently, I have been expanding my knowledge by learning Node.js, Solidity, and web3 tools.
+In the last 2 years, I have been expanding my knowledge by learning Node.js, Solidity, and web3 tools.
 
 I am passionate about the potential of blockchain and decentralized systems to transform the way we interact with the internet, and I am eager to explore the web3 space further. As a technology enthusiast, I am constantly seeking to learn and grow, and I am excited about the challenges that this constantly evolving field presents.
 
 If you are involved in Web3 projects or share my passion for blockchain technology and decentralized systems, I would love to connect and explore potential collaborations. Let's work together to bring innovative solutions to the world of blockchain and decentralized applications. Feel free to reach out and connect with me! 😄
 
 ### At the moment I'm...
-- Expanding my web3 knowledge with courses and tutorials on [LearnWeb3DAO](https://learnweb3.io/).
+- Starting learning how to create secure smart contracts by studying on [Cyfrin Updraft](https://updraft.cyfrin.io/) and [Codehawks](https://codehawks.com/).
+- Expanding my knowledge of web3 technologies by continuing to study and build things.
 - Using ChatGPT as my trusted assistant to help me with coding tasks, providing valuable insights and solutions to technical challenges.
 - Actively studying prompt engineering to improve my ability to communicate effectively with ChatGPT.
 
 ### In this year I want to...
-- 🇬🇧 Improve my English skills.
+- 📚 Improve my knowledge about TypeScript.
+- 🌐 Participate in some Hackathons in person.
 - 🏗️ Work on exciting Web3 Projects.
-- 🌐 Participate in some Hackathons.
+- 🇬🇧 Improve my English skills.
 
 ### In 2023 I...
 - 📚 Have been expanding my knowledge about Solidity and web3 tools.
@@ -29,7 +31,6 @@ If you are involved in Web3 projects or share my passion for blockchain technolo
 - 🌐 Participated to [BackDropBuild](https://backdropbuild.com/) with my [GPTDocBot](https://github.com/falconandrea/GPTDocBot) - [here you can search my project](https://backdropbuild.com/v2/directory)
 
 ### In 2022 I...
-- Used Laravel with InertiaJS in various projects (with Vue3 and Tailwind CSS for the frontend)
 - Made my first contribution to the Open Source World on the phpMyAdmin Project, [here](https://github.com/phpmyadmin/phpmyadmin/pull/17665) is the PR
 - Learned JavaScript and NodeJS through [Odin Project](https://www.theodinproject.com/) and [FreeCodeCamp](https://www.freecodecamp.org/)
 - Started the [Alchemy University](https://university.alchemy.com/) and ventured into the Web3 World.
@@ -51,6 +52,7 @@ If you are involved in Web3 projects or share my passion for blockchain technolo
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-000?&logo=Hardhat)
+![Foundry](https://img.shields.io/badge/-Foundry-000?&logo=Foundry)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=Ethereum&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai)
 
