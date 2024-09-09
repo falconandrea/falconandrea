@@ -9,7 +9,7 @@ I am passionate about the potential of blockchain and decentralized systems to t
 If you are involved in Web3 projects or share my passion for blockchain technology and decentralized systems, I would love to connect and explore potential collaborations. Let's work together to bring innovative solutions to the world of blockchain and decentralized applications. Feel free to reach out and connect with me! 😄
 
 ### At the moment I'm...
-- Starting learning how to create secure smart contracts by studying on [Cyfrin Updraft](https://updraft.cyfrin.io/) and [Codehawks](https://codehawks.com/).
+- Working on Nerwo as Frontend Developer!! 
 - Expanding my knowledge of web3 technologies by continuing to study and build things.
 - Using ChatGPT as my trusted assistant to help me with coding tasks, providing valuable insights and solutions to technical challenges.
 - Actively studying prompt engineering to improve my ability to communicate effectively with ChatGPT.
