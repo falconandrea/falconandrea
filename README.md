@@ -8,6 +8,8 @@ I am passionate about the potential of blockchain and decentralized systems to t
 
 If you are involved in Web3 projects or share my passion for blockchain technology and decentralized systems, I would love to connect and explore potential collaborations. Let's work together to bring innovative solutions to the world of blockchain and decentralized applications. Feel free to reach out and connect with me! 😄
 
+Here my Resume: [Resume 2024](https://drive.google.com/file/d/16lxZcBvvvjvK-KXAjlNZBO1ji3gNNuMq/view).
+
 ### At the moment I'm...
 - Working on Nerwo as Frontend Developer!! 
 - Expanding my knowledge of web3 technologies by continuing to study and build things.
