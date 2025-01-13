@@ -2,25 +2,29 @@
 
 I am a backend developer with experience in building web applications using PHP, Laravel, and MySQL. While my primary focus is on the backend, I also have knowledge of frontend technologies such as HTML, CSS, and JavaScript.
 
-In the last 2 years, I have been expanding my knowledge by learning Node.js, Solidity, and web3 tools.
+In the last years, I have been expanding my knowledge by learning Node.js, Solidity, Typescript, Next.js, and web3 technologies.
 
 I am passionate about the potential of blockchain and decentralized systems to transform the way we interact with the internet, and I am eager to explore the web3 space further. As a technology enthusiast, I am constantly seeking to learn and grow, and I am excited about the challenges that this constantly evolving field presents.
 
 If you are involved in Web3 projects or share my passion for blockchain technology and decentralized systems, I would love to connect and explore potential collaborations. Let's work together to bring innovative solutions to the world of blockchain and decentralized applications. Feel free to reach out and connect with me! 😄
 
-Here my Resume: [Resume 2024](https://drive.google.com/file/d/16lxZcBvvvjvK-KXAjlNZBO1ji3gNNuMq/view).
+Here my Resume: [Resume 2024](https://drive.google.com/file/d/1nl0l15tfWuKppH5t5PYAc30Sc98ekbGO/view).
 
 ### At the moment I'm...
-- Working on Nerwo as Frontend Developer!! 
-- Expanding my knowledge of web3 technologies by continuing to study and build things.
-- Using ChatGPT as my trusted assistant to help me with coding tasks, providing valuable insights and solutions to technical challenges.
-- Actively studying prompt engineering to improve my ability to communicate effectively with ChatGPT.
+- Working on the frontend side of the Nerwo platform.
+- Continuously improving my programming skills, both in Laravel and JavaScript stack technologies.
+- Developing projects and MVPs for potential initiatives that could grow into something bigger.
 
-### In this year I want to...
-- 📚 Improve my knowledge about TypeScript.
-- 🌐 Participate in some Hackathons in person.
-- 🏗️ Work on exciting Web3 Projects.
-- 🇬🇧 Improve my English skills.
+### This year I want to...
+- 📚 Continue improving my knowledge, especially on the frontend side.
+- ✈️ Travel more and take my first intercontinental trip, possibly to Japan.
+- 🌍 Keep attending international events and engaging with communities to improve my English.
+
+### In 2024 I...
+- 🔥 I started working on the [Nerwo](https://nerwo.xyz) project, we are building a web3 freelancer community where native talent shines and everyone gets seen.
+- 🫂 I have attended many web3 events where I have met many friends and made new acquaintances.
+- 📚 I continued to improve my knowledge on Laravel (during the day job) and on Next.JS and Typescript during my free time.
+- 🏗️ I worked on some MVPs of some projects to see if I could create something interesting with some friends.
 
 ### In 2023 I...
 - 📚 Have been expanding my knowledge about Solidity and web3 tools.
