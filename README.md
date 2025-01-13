@@ -21,10 +21,10 @@ Here my Resume: [Resume 2024](https://drive.google.com/file/d/1nl0l15tfWuKppH5t5
 - 🌍 Keep attending international events and engaging with communities to improve my English.
 
 ### In 2024 I...
-- 🔥 I started working on the [Nerwo](https://nerwo.xyz) project, we are building a web3 freelancer community where native talent shines and everyone gets seen.
-- 🫂 I have attended many web3 events where I have met many friends and made new acquaintances.
-- 📚 I continued to improve my knowledge on Laravel (during the day job) and on Next.JS and Typescript during my free time.
-- 🏗️ I worked on some MVPs of some projects to see if I could create something interesting with some friends.
+- 🔥 Started working on the [Nerwo](https://nerwo.xyz) project, we are building a web3 freelancer community where native talent shines and everyone gets seen.
+- 🫂 Have attended many web3 events where I have met many friends and made new acquaintances.
+- 📚 Continued to improve my knowledge on Laravel (during the day job) and on Next.JS and Typescript during my free time.
+- 🏗️ Worked on some MVPs of some projects to see if I could create something interesting with some friends.
 
 ### In 2023 I...
 - 📚 Have been expanding my knowledge about Solidity and web3 tools.
