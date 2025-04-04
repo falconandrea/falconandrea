@@ -1,22 +1,23 @@
 # 👋 Hi, I'm Andrea Falcon
 
-I am a backend developer with experience in building web applications using PHP, Laravel, and MySQL. While my primary focus is on the backend, I also have knowledge of frontend technologies such as HTML, CSS, and JavaScript.
+Backend developer with 9+ years of experience primarily focused on building robust web applications using PHP and Laravel. Proficient in designing APIs and developing backend systems, while also capable of handling frontend tasks using React, Next.js, Tailwind CSS, and TypeScript. Continuously enhancing skills and expanding knowledge through hands-on projects.
 
-In the last years, I have been expanding my knowledge by learning Node.js, Solidity, Typescript, Next.js, and web3 technologies.
+Open to full remote opportunities or relocation outside of Italy.
 
 I am passionate about the potential of blockchain and decentralized systems to transform the way we interact with the internet, and I am eager to explore the web3 space further. As a technology enthusiast, I am constantly seeking to learn and grow, and I am excited about the challenges that this constantly evolving field presents.
 
-If you are involved in Web3 projects or share my passion for blockchain technology and decentralized systems, I would love to connect and explore potential collaborations. Let's work together to bring innovative solutions to the world of blockchain and decentralized applications. Feel free to reach out and connect with me! 😄
-
-Here my Resume: [Resume 2024](https://drive.google.com/file/d/1nl0l15tfWuKppH5t5PYAc30Sc98ekbGO/view).
+Here my Resume: [Resume 2025](https://drive.google.com/file/d/1tuO35VvguJZJ8EoHOd_IGrh-NaQjkFS5/view?usp=sharing).
 
 ### At the moment I'm...
 - Working on the frontend side of the Nerwo platform.
+- Working on the Carefinder project with two friends; we're developing (currently as an MVP) a platform for caregivers to find jobs and help clients find the right caregiver.
 - Continuously improving my programming skills, both in Laravel and JavaScript stack technologies.
 - Developing projects and MVPs for potential initiatives that could grow into something bigger.
+- Still pursuing my idea of moving abroad ✈️.
 
 ### This year I want to...
-- 📚 Continue improving my knowledge, especially on the frontend side.
+- 📚 I want to get back to working with Laravel, possibly by getting more involved in the open-source world.
+- 🏗️ I want to keep improving on the frontend side as well; I'm using Next.js for various side projects to practice.
 - ✈️ Travel more and take my first intercontinental trip, possibly to Japan.
 - 🌍 Keep attending international events and engaging with communities to improve my English.
 
@@ -50,17 +51,16 @@ Here my Resume: [Resume 2024](https://drive.google.com/file/d/1nl0l15tfWuKppH5t5
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white)
 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 ![Next.JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-000?&logo=Hardhat)
 ![Foundry](https://img.shields.io/badge/-Foundry-000?&logo=Foundry)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=Ethereum&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai)
 
 ## 📫 Get in touch
 
