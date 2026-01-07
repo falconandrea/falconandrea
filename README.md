@@ -8,10 +8,24 @@ Currently interested in AI-assisted development, rapid prototyping, and product-
 
 Open to full remote opportunities or relocation outside of Italy.
 
-Here my Resume: [Resume 2025](https://drive.google.com/file/d/1tuO35VvguJZJ8EoHOd_IGrh-NaQjkFS5/view?usp=sharing).
+**Here my Resume:** [Resume 2025](https://drive.google.com/file/d/1tuO35VvguJZJ8EoHOd_IGrh-NaQjkFS5/view?usp=sharing).
+
+### 🚀 Featured Projects
+
+- **Careguru** – Platform connecting caregivers with families  
+  Built as a real-world product, from MVP to public release.  
+  Tech stack: Laravel, PostgreSQL, Docker, Tailwind CSS, NextJS
+  Status: Live (January 2026)
+  👉 https://careguru.io
+
+- **Appunti dal Giappone** – Travel blog about Japan  
+  A content-driven website where I publish guides, tips, and personal notes about traveling in Japan.  
+  Built with Astro for performance and simplicity.  
+  Status: Live (January 2026)
+  👉 https://appuntidalgiappone.it
+
 
 ### At the moment I'm...
-- Finalizing [Careguru](https://careguru.io), a platform connecting caregivers with families — we're about to go live with the first public release.
 - Building and iterating on MVPs and side projects, mainly using Laravel and modern JavaScript stacks.
 - Exploring how AI tools can improve developer productivity and product quality.
 - Still pursuing my idea of moving abroad ✈️
