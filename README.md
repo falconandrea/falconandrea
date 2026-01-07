@@ -14,14 +14,14 @@ Open to full remote opportunities or relocation outside of Italy.
 
 - **Careguru** – Platform connecting caregivers with families  
   Built as a real-world product, from MVP to public release.  
-  Tech stack: Laravel, PostgreSQL, Docker, Tailwind CSS, NextJS
-  Status: Live (January 2026)
+  Tech stack: Laravel, PostgreSQL, Docker, Tailwind CSS, NextJS.  
+  Status: Live (January 2026)  
   👉 https://careguru.io
 
 - **Appunti dal Giappone** – Travel blog about Japan  
   A content-driven website where I publish guides, tips, and personal notes about traveling in Japan.  
   Built with Astro for performance and simplicity.  
-  Status: Live (January 2026)
+  Status: Live (January 2026)  
   👉 https://appuntidalgiappone.it
 
 
