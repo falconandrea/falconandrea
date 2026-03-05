@@ -18,6 +18,12 @@ Open to full remote opportunities or relocation outside of Italy.
   Status: Live (January 2026)  
   👉 https://careguru.io
 
+- **CraftCV** – ATS-friendly CV generator built using a spec-driven, AI-assisted workflow.  
+  This project embraces the Vibe Coding philosophy, combined with a Spec-Driven approach.  
+  Tech stack: Docker, Tailwind CSS, NextJS.  
+  Status: Live (March 2026)  
+  👉 https://craftcv.online
+
 - **Appunti dal Giappone** – Travel blog about Japan  
   A content-driven website where I publish guides, tips, and personal notes about traveling in Japan.  
   Built with Astro for performance and simplicity.  
