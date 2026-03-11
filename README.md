@@ -8,7 +8,7 @@ Currently interested in AI-assisted development, rapid prototyping, and product-
 
 Open to full remote opportunities or relocation outside of Italy.
 
-**Here my Resume:** [Resume 2025](https://drive.google.com/file/d/1tuO35VvguJZJ8EoHOd_IGrh-NaQjkFS5/view?usp=sharing).
+**Here my Resume:** [Resume 2026](https://drive.google.com/file/d/14ozfbfiWK6vGvn1RqXq6B2UffJaSarHn/view?usp=sharing).
 
 ### 🚀 Featured Projects
 
