@@ -8,21 +8,21 @@ Currently interested in AI-assisted development, rapid prototyping, and product-
 
 Open to full remote opportunities or relocation outside of Italy.
 
-**Here my Resume:** [Resume 2026](https://drive.google.com/file/d/14ozfbfiWK6vGvn1RqXq6B2UffJaSarHn/view?usp=sharing).
+**Here my Resume:** [Resume 2026](https://drive.google.com/file/d/1-KLFesO93oSoYIk2P5CfAnqBt5X9kgOG/view?usp=sharing).
 
 ### 🚀 Featured Projects
-
-- **Careguru** – Platform connecting caregivers with families  
-  Built as a real-world product, from MVP to public release.  
-  Tech stack: Laravel, PostgreSQL, Docker, Tailwind CSS, NextJS.  
-  Status: Live (January 2026)  
-  👉 https://careguru.io
 
 - **CraftCV** – ATS-friendly CV generator built using a spec-driven, AI-assisted workflow.  
   This project embraces the Vibe Coding philosophy, combined with a Spec-Driven approach.  
   Tech stack: Docker, Tailwind CSS, NextJS.  
   Status: Live (March 2026)  
   👉 https://craftcv.online
+  
+- **Careguru** – Platform connecting caregivers with families  
+  Built as a real-world product, from MVP to public release.  
+  Tech stack: Laravel, PostgreSQL, Docker, Tailwind CSS, NextJS.  
+  Status: Live (January 2026)  
+  👉 https://careguru.io
 
 - **Appunti dal Giappone** – Travel blog about Japan  
   A content-driven website where I publish guides, tips, and personal notes about traveling in Japan.  
