@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Andrea Falcon 
 
-Senior Backend Developer with 9+ years of experience building web applications and APIs, mainly using PHP and Laravel.
+Senior Fullstack Developer with 9+ years of experience building web applications and APIs. My core stack is PHP/Laravel on the backend and React/Next.js on the frontend, with TypeScript and Tailwind CSS as daily tools.
 
-I focus on designing scalable backend systems, developing MVPs, and turning ideas into working products. I also work on the frontend when needed using React, Next.js, Tailwind CSS, and TypeScript.
+I work comfortably across the full stack and enjoy taking a feature from design to deployment. Lately I've been focusing on scalable backend architecture and shipping MVPs quickly.
 
-Currently interested in AI-assisted development, rapid prototyping, and product-oriented side projects.
+I also invest heavily in my development workflow integrating AI agents and automation tools to move faster, reduce friction, and stay focused on what actually matters: building good software.
 
-Open to full remote opportunities or relocation outside of Italy.
+Open to full remote roles or relocation outside Italy, preferably in product-focused or fast-moving environments.
 
 **Here my Resume:** [Resume 2026](https://drive.google.com/file/d/1-KLFesO93oSoYIk2P5CfAnqBt5X9kgOG/view?usp=sharing).
 
