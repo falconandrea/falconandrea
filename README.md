@@ -8,7 +8,7 @@ I also invest heavily in my development workflow integrating AI agents and autom
 
 Open to full remote roles or relocation outside Italy, preferably in product-focused or fast-moving environments.
 
-**Here my Resume:** [Resume 2026](https://drive.google.com/file/d/1-KLFesO93oSoYIk2P5CfAnqBt5X9kgOG/view?usp=sharing).
+**Here my Resume:** [Resume 2026](https://drive.google.com/file/d/1nX7gWT-BeJEhg_LHz5ZzT315Q2vFeNGM/view?usp=sharing).
 
 ### 🚀 Featured Projects
 
