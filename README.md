@@ -10,7 +10,7 @@ I don't use AI as a substitute for engineering judgment or as a "vibe-coding" sh
 
 Currently open to **fully remote opportunities** and relocation outside Italy, especially in product-focused and fast-moving teams.
 
-📄 **[Resume 2026](https://andreafalcon.dev/cv)**  
+📄 **[Resume 2026](https://andreafalcon.dev/cv.pdf)**  
 🌐 **[andreafalcon.dev](https://andreafalcon.dev)**
 
 ## 🚀 Featured Projects
