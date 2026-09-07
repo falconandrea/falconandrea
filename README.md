@@ -1,83 +1,135 @@
-# 👋 Hi, I'm Andrea Falcon 
+<p align="center"> <img src="./assets/intro.png" alt="Andrea Falcon - Senior Full-Stack Developer" width="100%" /> </p>
 
-Senior Fullstack Developer with 9+ years of experience building web applications and APIs. My core stack is PHP/Laravel on the backend and React/Next.js on the frontend, with TypeScript and Tailwind CSS as daily tools.
+I'm a **Senior Full-Stack Developer** with 9+ years of experience building web applications, APIs, and digital products.
 
-I work comfortably across the full stack and enjoy taking a feature from design to deployment. Lately I've been focusing on scalable backend architecture and shipping MVPs quickly.
+My core stack is **Laravel / PHP** on the backend and **Next.js / Astro / TypeScript** on the frontend, with PostgreSQL, Tailwind CSS and Docker as part of my daily workflow.
 
-I also invest heavily in my development workflow integrating AI agents and automation tools to move faster, reduce friction, and stay focused on what actually matters: building good software.
+Beyond the stack itself, I'm particularly interested in **AI-assisted and agentic software development**.
 
-Open to full remote roles or relocation outside Italy, preferably in product-focused or fast-moving environments.
+I don't use AI as a substitute for engineering judgment or as a "vibe-coding" shortcut. With years of development experience behind me, I use AI agents, automation and spec-driven workflows to reduce repetitive work and move faster on implementation — so I can spend more time on higher-level decisions such as architecture, performance, scalability, code quality, optimization and product trade-offs.
 
-**Here my Resume:** [Resume 2026](https://drive.google.com/file/d/1nX7gWT-BeJEhg_LHz5ZzT315Q2vFeNGM/view?usp=sharing).
+Currently open to **fully remote opportunities** and relocation outside Italy, especially in product-focused and fast-moving teams.
 
-### 🚀 Featured Projects
+📄 **[Resume 2026](https://andreafalcon.dev/cv)**  
+🌐 **[andreafalcon.dev](https://andreafalcon.dev)**
 
-- **CraftCV** – ATS-friendly CV generator built using a spec-driven, AI-assisted workflow.  
-  This project embraces the Vibe Coding philosophy, combined with a Spec-Driven approach.  
-  Tech stack: Docker, Tailwind CSS, NextJS.  
-  Status: Live (March 2026)  
-  👉 https://craftcv.online
+## 🚀 Featured Projects
+
+### [CraftCV](https://craftcv.online)
+
+ATS-friendly CV generator built with **Next.js, Tailwind CSS and Docker**.
+
+Built using a **spec-driven, AI-assisted development workflow**, from product definition to implementation and iteration.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Docker`
+
+---
   
-- **Careguru** – Platform connecting caregivers with families  
-  Built as a real-world product, from MVP to public release.  
-  Tech stack: Laravel, PostgreSQL, Docker, Tailwind CSS, NextJS.  
-  Status: Live (January 2026)  
-  👉 https://careguru.io
+### [Careguru](https://careguru.io)
 
-- **Appunti dal Giappone** – Travel blog about Japan  
-  A content-driven website where I publish guides, tips, and personal notes about traveling in Japan.  
-  Built with Astro for performance and simplicity.  
-  Status: Live (January 2026)  
-  👉 https://appuntidalgiappone.it
+Platform connecting caregivers with families, developed as a real-world product from **MVP to public release**.
 
+`Laravel` `PostgreSQL` `Next.js` `Tailwind CSS` `Docker`
 
-### At the moment I'm...
-- Building and iterating on MVPs and side projects, mainly using Laravel and modern JavaScript stacks.
-- Exploring how AI tools can improve developer productivity and product quality.
-- Still pursuing my idea of moving abroad ✈️
+---
 
-### In 2025 I focused on...
-- 📚 Getting back to Laravel and strengthening my backend fundamentals.
-- 🏗️ Building and shipping MVPs, focusing on real-world problems and product validation.
-- 🤖 Experimenting with AI-assisted development to speed up prototyping and development workflows.
-- ✈️ Traveling more and planning my first intercontinental trip.
-- 🌍 Improving my English through international communities and events.
+### [Appunti dal Giappone](https://appuntidalgiappone.it)
 
-### Background & Previous Experience
-From 2022 to 2024 I explored the Web3 ecosystem:
-- 📚 Studied Solidity and Web3 tooling.
-- 🎓 Completed [Alchemy University](https://university.alchemy.com/) Bootcamp with a final NFT-based authentication project.
-- 🥇 Won multiple bounties on [LearnWeb3DAO](https://learnweb3.io/).
-- 🫂 Participated in hackathons (Filecoin Open Data Hackathon, BackDropBuild and Devfolio hackathons) and Web3 conferences (ETHMilan, NapulETH, NFTLisbon).
-- 🔥 Started working on the [Nerwo](https://nerwo.xyz) project, we are building a web3 freelancer community where native talent shines and everyone gets seen.
-- 🏗️ Made my first contribution to the Open Source World on the phpMyAdmin Project, [here](https://github.com/phpmyadmin/phpmyadmin/pull/17665) is the PR.
+Content-focused travel website where I publish guides, tips and personal notes about travelling in Japan.
 
-## ⚡ Languages & Technologies
+Built with **Astro**, with a focus on performance, simplicity and SEO.
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?logo=typescript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+`Astro` `TypeScript` `Content`
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
-![GIT](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-![Next.JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+## 🤖 How I work with AI
 
-Web3 (previous experience): 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-000?&logo=Hardhat)
-![Foundry](https://img.shields.io/badge/-Foundry-000?&logo=Foundry)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=Ethereum&logoColor=white)
+AI is part of my development workflow, but not a replacement for engineering judgment.
+
+I use agents and automation across different stages of development:
+
+**SPEC → PLAN → BUILD → REVIEW → SHIP**
+
+This includes exploring requirements, breaking features into implementation plans, generating and reviewing code, investigating bugs, documenting decisions and reducing repetitive work.
+
+My goal is not to produce more code for the sake of it. I use AI to **increase leverage** and free up time for the parts of software development where experience matters most:
+
+- Architecture and system design
+- Performance and database optimization
+- Code quality and maintainability
+- Scalability and technical trade-offs
+- Product decisions and implementation strategy
+- Reviewing and validating AI-generated output
+
+In other words, AI helps me move faster at the implementation layer while I stay focused on the higher-level engineering decisions.
+
+## 📈 Product, SEO & Analytics
+
+When I build a product, I try to think beyond the application code itself.
+
+I also spend time on the parts that help a project perform well after launch:
+
+- Technical SEO and structured metadata
+- GEO / AI-search discoverability
+- Performance and Core Web Vitals
+- Analytics and conversion tracking
+- Google Tag Manager setup
+- Consent management and cookie compliance
+- Monitoring and iterating based on real usage data
+
+I like working on products end-to-end: from architecture and implementation to launch, measurement and optimization.
+
+## 🔨 Currently
+
+- Building and iterating on **MVPs and side projects**
+- Working primarily with **Laravel, Next.js, Astro and TypeScript**
+- Experimenting with **AI agents, coding agents and spec-driven development**
+- Improving my workflows around automation and developer productivity
+- Interested in international and remote-first product teams
+
+## ⚡ Core Technologies
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+**Product & Analytics**
+
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?logo=googletagmanager&logoColor=white)
+
+## 🕰️ Previous Experience
+
+From 2022 to 2024 I explored the Web3 ecosystem, working with Solidity and Ethereum tooling.
+
+During that period I:
+
+- Completed the [Alchemy University](https://university.alchemy.com/) Ethereum Developer Bootcamp
+- Won multiple bounties on [LearnWeb3DAO](https://learnweb3.io/)
+- Participated in Web3 hackathons and conferences including ETHMilan, NapulETH and NFTLisbon
+- Contributed to the [phpMyAdmin open-source project](https://github.com/phpmyadmin/phpmyadmin/pull/17665)
 
 ## 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-falcon-fullstack-developer/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndreaFalconIT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea_Falcon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-falcon-fullstack-developer/)
+[![Website](https://img.shields.io/badge/Website-andreafalcon.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andreafalcon.dev)
+[![Email](https://img.shields.io/badge/Email-falcon.andrea88%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falcon.andrea88@gmail.com)
 
 <!---
 falconandrea/falconandrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
